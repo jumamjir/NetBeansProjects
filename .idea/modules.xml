@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Contador02/Contador02.iml" filepath="$PROJECT_DIR$/Contador02/Contador02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EquacaoSegundoGrau/EquacaoSegundoGrau.iml" filepath="$PROJECT_DIR$/EquacaoSegundoGrau/EquacaoSegundoGrau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio13/Exercicio13.iml" filepath="$PROJECT_DIR$/Exercicio13/Exercicio13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioRepita/ExercicioRepita.iml" filepath="$PROJECT_DIR$/ExercicioRepita/ExercicioRepita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioVetor/ExercicioVetor.iml" filepath="$PROJECT_DIR$/ExercicioVetor/ExercicioVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcao02/Funcao02.iml" filepath="$PROJECT_DIR$/Funcao02/Funcao02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcao1/Funcao1.iml" filepath="$PROJECT_DIR$/Funcao1/Funcao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeitorDePensamentos/LeitorDePensamentos.iml" filepath="$PROJECT_DIR$/LeitorDePensamentos/LeitorDePensamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramaParImpar/ProgramaParImpar.iml" filepath="$PROJECT_DIR$/ProgramaParImpar/ProgramaParImpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramaPernas/ProgramaPernas.iml" filepath="$PROJECT_DIR$/ProgramaPernas/ProgramaPernas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoFatorial/ProjetoFatorial.iml" filepath="$PROJECT_DIR$/ProjetoFatorial/ProjetoFatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoTriangulo/ProjetoTriangulo.iml" filepath="$PROJECT_DIR$/ProjetoTriangulo/ProjetoTriangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste8/Teste8.iml" filepath="$PROJECT_DIR$/Teste8/Teste8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteJava/TesteJava.iml" filepath="$PROJECT_DIR$/TesteJava/TesteJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VerificadorIdadeSwing/VerificadorIdadeSwing.iml" filepath="$PROJECT_DIR$/VerificadorIdadeSwing/VerificadorIdadeSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VotacaoSwing/VotacaoSwing.iml" filepath="$PROJECT_DIR$/VotacaoSwing/VotacaoSwing.iml" />
+    </modules>
+  </component>
+</project>
